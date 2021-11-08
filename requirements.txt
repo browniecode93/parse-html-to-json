@@ -1,2 +1,2 @@
-xmltojson==0.2.0
 pathlib==1.0.1
+BeautifulSoup4==4.10.0
