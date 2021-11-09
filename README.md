@@ -1,5 +1,5 @@
 # parse-html-to-json
-This script will read all the html file in `data` directory and create a json in this format
+This script will read all the html file in `data` directory and create a json in this format and save the result on result.json on the same directory.
 ```
 [
   {
@@ -14,4 +14,5 @@ This script will read all the html file in `data` directory and create a json in
 ```
 
 # Usage
+pip3 install -r requirements.txt
 python3 main.py
